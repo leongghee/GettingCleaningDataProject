@@ -3,7 +3,7 @@
 ### Purpose of this project
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set.
 
-Analysis files
+### Analysis files
 - CodeBook.md contains the details of the fields used in project
 - run_analysis.R contains the script on downloading the data to creating a tidy data set
 
@@ -12,7 +12,7 @@ Analysis files
 The source of the original data is located in the following link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-### Process:
+### Process
 
 Script run_analysis.R will download the original data, clean up, and produce a tidy data sets:
 
